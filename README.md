@@ -1,4 +1,5 @@
 # A Recommendation System for the Steam Online Game Store Using Text Classification Model
+![image](https://github.com/user-attachments/assets/9ad135b2-6290-4b12-b329-64a7d3180cf3)
 
 ## Abstract
 
@@ -47,6 +48,13 @@ Uses TF-IDF for text vectorization of game features (e.g., genre and tags). Comp
 ## Results
 
 The final dataset consists of 968 games after processing. The recommendations are compared with the Steam storefront's suggestions, showing a good match.
+
+Below is an example using the title "Left 4 Dead" as the input title:
+
+
+![image](https://github.com/user-attachments/assets/0257ac3c-370f-44dd-b0e7-3b30cef74231)
+
+![image](https://github.com/user-attachments/assets/3df1b602-ad77-4729-a1ce-4e6c0ae8b93f)
 
 ## Discussion
 
